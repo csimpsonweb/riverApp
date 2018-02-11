@@ -4,6 +4,7 @@ burrs.send();
 var response = JSON.parse(burrs.response);
 console.log(response.items.measures.latestReading.value);
 
+/*
 var ManchesterWeather = new XMLHttpRequest();
 ManchesterWeather.open("GET", "http://api.openweathermap.org/data/2.5/forecast/city?id=2643123&APPID=127523d636df8a22f0e9805b953c6203", false);
 ManchesterWeather.send();
@@ -15,4 +16,4 @@ dee.open("GET", "http://environment.data.gov.uk/flood-monitoring/id/stations/067
 dee.send();
 var response = JSON.parse(dee.response);
 console.log(response);
-
+*/

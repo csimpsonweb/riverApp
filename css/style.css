@@ -4,3 +4,11 @@ body {
     background-repeat: no-repeat;
     background-position: top center;
 }
+p
+{
+	color:black;
+}
+#burrs
+{
+	margin-top:60px;
+}
