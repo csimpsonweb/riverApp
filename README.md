@@ -1,11 +1,4 @@
-# bcc river levels
+#MCC-Site Digital River Gauge
 
-
-
-#Homepage
-
-Edits Required
-
-* 
-* 
+Combine the GOYT & the Etherow levels from the EA json data
 
