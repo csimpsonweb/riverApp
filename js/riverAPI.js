@@ -353,3 +353,70 @@ if(etherowResult == 0.4 && goytResult == 1.4){
 if(etherowResult == 0.4 && goytResult == 1.5){
  $( "#mcc" ).replaceWith( "<h2 class='clubsite-result'>MCC Club Site Level = 14.8 </h2>" );
 }
+
+// ========================= etherow 0.5 - Goyt ++ ==================================
+
+if(etherowResult == 0.5 && goytResult == 0.0){
+ $( "#mcc" ).replaceWith( "<h2 class='clubsite-result'>MCC Club Site Level = 3.4 </h2>" );
+}
+
+if(etherowResult == 0.5 && goytResult == 0.1){
+ $( "#mcc" ).replaceWith( "<h2 class='clubsite-result'>MCC Club Site Level = 4.0 </h2>" );
+}
+
+if(etherowResult == 0.5 && goytResult == 0.2){
+ $( "#mcc" ).replaceWith( "<h2 class='clubsite-result'>MCC Club Site Level = 4.3 </h2>" );
+} 
+
+if(etherowResult == 0.5 && goytResult == 0.3){
+ $( "#mcc" ).replaceWith( "<h2 class='clubsite-result'>MCC Club Site Level = 5.1 </h2>" );
+} 
+
+if(etherowResult == 0.5 && goytResult == 0.4){
+ $( "#mcc" ).replaceWith( "<h2 class='clubsite-result'>MCC Club Site Level = 6.0 </h2>" );
+} 
+
+if(etherowResult == 0.5 && goytResult == 0.5){
+ $( "#mcc" ).replaceWith( "<h2 class='clubsite-result'>MCC Club Site Level = 6.9</h2>" );
+} 
+
+if(etherowResult == 0.5 && goytResult == 0.6){
+ $( "#mcc" ).replaceWith( "<h2 class='clubsite-result'>MCC Club Site Level = 7.8 </h2>" );
+} 
+
+if(etherowResult == 0.5 && goytResult == 0.7){
+ $( "#mcc" ).replaceWith( "<h2 class='clubsite-result'>MCC Club Site Level = 8.7 </h2>" );
+} 
+
+if(etherowResult == 0.5 && goytResult == 0.8){
+ $( "#mcc" ).replaceWith( "<h2 class='clubsite-result'>MCC Club Site Level = 9.5 </h2>" );
+} 
+
+if(etherowResult == 0.5 && goytResult == 0.9){
+ $( "#mcc" ).replaceWith( "<h2 class='clubsite-result'>MCC Club Site Level = 10.4 </h2>" );
+} 
+
+if(etherowResult == 0.5 && goytResult == 1.0){
+ $( "#mcc" ).replaceWith( "<h2 class='clubsite-result'>MCC Club Site Level = 11.3 </h2>" );
+} 
+
+if(etherowResult == 0.5 && goytResult == 1.1){
+ $( "#mcc" ).replaceWith( "<h2 class='clubsite-result'>MCC Club Site Level = 12.2 </h2>" );
+} 
+
+if(etherowResult == 0.5 && goytResult == 1.2){
+ $( "#mcc" ).replaceWith( "<h2 class='clubsite-result'>MCC Club Site Level = 13.1 </h2>" );
+} 
+
+if(etherowResult == 0.5 && goytResult == 1.3){
+ $( "#mcc" ).replaceWith( "<h2 class='clubsite-result'>MCC Club Site Level = 13.9 </h2>" );
+} 
+
+if(etherowResult == 0.5 && goytResult == 1.4){
+ $( "#mcc" ).replaceWith( "<h2 class='clubsite-result'>MCC Club Site Level = 14.8 </h2>" );
+} 
+
+if(etherowResult == 0.5 && goytResult == 1.5){
+ $( "#mcc" ).replaceWith( "<h2 class='clubsite-result'>MCC Club Site Level = 15.7 </h2>" );
+}
+
